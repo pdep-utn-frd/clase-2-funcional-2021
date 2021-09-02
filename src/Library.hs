@@ -1,6 +1,8 @@
 module Library where
 import PdePreludat
 
+-- Clase 2
+
 -- tuplas
 -- permiten que sus componentes sean de distinto tipo (mientras que las listas no).
 -- no se pueden agregar nuevos valores como en las listas.
